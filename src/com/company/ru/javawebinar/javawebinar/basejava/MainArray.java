@@ -1,4 +1,6 @@
-package com.company;
+package com.company.ru.javawebinar.javawebinar.basejava;
+
+import com.company.ru.javawebinar.javawebinar.basejava.model.Resume;
 
 public class MainArray {
 

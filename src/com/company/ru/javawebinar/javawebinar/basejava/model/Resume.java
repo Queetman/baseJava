@@ -1,4 +1,4 @@
-package com.company;
+package com.company.ru.javawebinar.javawebinar.basejava.model;
 
 import java.util.UUID;
 
